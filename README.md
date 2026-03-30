@@ -10,7 +10,7 @@ not just the commands.
 
 | Wargame   | Progress  |
 |-----------|-----------|
-| Bandit    | 5/34      |
+| Bandit    | 10/34      |
 | Natas     | 0/34      |
 | Leviathan | 0/8       |
 
